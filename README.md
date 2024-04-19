@@ -1,4 +1,4 @@
-# Remote-Photoplethysmography-rPPG-with-Fast-Fourier-Transform-FFT-
+# Remote-Photoplethysmography-rPPG-with-Fast-Fourier-Transform-FFT
 
 This Project is about Remote Photoplethysmography (rPPG) that use Fast Fourier Transform (FFT) to enabling heart rate detection without physical contact.
 
